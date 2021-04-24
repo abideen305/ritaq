@@ -1,0 +1,32 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*copy right*/
+.cpy-right {
+  padding: 7px;
+  background: #0083ff;
+}
+
+.cpy-right p {
+  color: #fff;
+}
+
+.cpy-right a {
+  color: #fff;
+}
+/*copy right ends*/
